@@ -1,0 +1,18 @@
+﻿[
+    {
+        "panelType": "ChoiceUI",
+        "path": "UI/Prefabs/ChoiceUI"
+    },
+    {
+        "panelType": "TipsUI",
+        "path": "UI/Prefabs/TipsUI"
+    },
+	{
+        "panelType": "SpehreUI",
+        "path": "UI/Prefabs/SpehreUI"
+    },
+		{
+        "panelType": "SpehreSuccessUI",
+        "path": "UI/Prefabs/SpehreSuccessUI"
+    }
+]
